@@ -1,0 +1,19 @@
+{
+  "name": "assignment_node_hello_world-master",
+  "version": "1.0.0",
+  "description": "First node project, VCS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "dande313",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "lodash": "^4.17.4"
+  }
+}
